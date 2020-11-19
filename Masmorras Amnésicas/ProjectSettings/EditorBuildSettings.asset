@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: d5a53caf1e03b63458d1761e33f79f40
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: afe1a5acdae407b4bab625a5ed37306c
+  - enabled: 1
+    path: Assets/Scenes/Porta.unity
+    guid: 372a3a0191015a845950857bcb4a3923
+  - enabled: 1
+    path: Assets/Scenes/Rosa Dos Ventos.unity
+    guid: 66ef723a80ad45145b836905d99aebdd
+  - enabled: 1
+    path: "Assets/Scenes/Rel\xF3gio.unity"
+    guid: cfcfbf004b302e247b9145e357d66c73
+  - enabled: 1
+    path: Assets/Scenes/Cadeado.unity
+    guid: bea38c68cc3e2da4b867d7c6add1ed01
+  - enabled: 1
+    path: Assets/Scenes/Escadas.unity
+    guid: 1a1a30ed14e10544fae7f18e1ebbdc40
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: aaa06f13ef859774ca2c8c4c3864cc55
+  m_configObjects: {}
